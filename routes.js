@@ -1,5 +1,7 @@
+//what youre doing with the data
+
 var db = require('./db')
 
 module.exports = {
-  getUsers: getUsers
+
 }
